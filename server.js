@@ -55,7 +55,7 @@ const swaggerOptions = {
                 description: "Development server"
             },
             { 
-                url: "https://prod_app", // TODO
+                url: "https://minigames.api.etherroyale.io/",
                 description: "Production server"
             }
         ],
